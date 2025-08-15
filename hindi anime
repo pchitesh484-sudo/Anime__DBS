@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Hindi Dub Anime</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 2em; }
+    h1 { color: #ff8800; }
+    .anime-list { margin-top: 2em; }
+    .anime-item { margin-bottom: 1em; }
+  </style>
+</head>
+<body>
+  <h1>Hindi Dub Anime</h1>
+  <div class="anime-list">
+    <div class="anime-item">
+      <strong>Naruto</strong> <br>
+      <a href="https://www.youtube.com/watch?v=dub-naruto">Watch Hindi Dub</a>
+    </div>
+    <div class="anime-item">
+      <strong>Dragon Ball Z</strong> <br>
+      <a href="https://www.youtube.com/watch?v=dub-dbz">Watch Hindi Dub</a>
+    </div>
+    <!-- Add more anime here -->
+  </div>
+</body>
+</html>
